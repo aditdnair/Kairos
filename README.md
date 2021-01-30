@@ -66,7 +66,7 @@ Kairos is an e-commerce website for third party watch distributors and sellers.
 
 ![End page](/screenshots/end.png)
 
-<sub><sup>Images for the watches and logos are used for illustrative purposes only. Rights for the same belong to the respective brands.</sub></sup>
+<sub><sup>Images for the watches and logos as well as the corresponding names and specifications are used for illustrative purposes only. Rights for the same belong to the respective brands.</sub></sup>
 
 ## Future Scope
 
