@@ -22,9 +22,9 @@ Kairos is an e-commerce website for third party watch distributors and sellers.
 
 ![About page](/screenshots/about-us.png)
 
-### Register page
+### Registeration page
 
-![Register page](/screenshots/register.png)
+![Registeration page](/screenshots/register.png)
 
 ### Login page
 
